@@ -1,0 +1,28 @@
+Logopeda.MainActivity, Logopeda;md5aec9ab9a3feb243c7793e658edd2ef75.MainActivity
+Logopeda.MainActivity, Logopeda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aec9ab9a3feb243c7793e658edd2ef75.MainActivity
+Logopeda.MainActivity;md5aec9ab9a3feb243c7793e658edd2ef75.MainActivity
+logopeda.MainActivity;md5aec9ab9a3feb243c7793e658edd2ef75.MainActivity
+Logopeda.Screens.WordsScreens.WordsListScreen, Logopeda;md5c6af9fbdd9f3b95720e819224c27ae11.WordsListScreen
+Logopeda.Screens.WordsScreens.WordsListScreen, Logopeda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c6af9fbdd9f3b95720e819224c27ae11.WordsListScreen
+Logopeda.Screens.WordsScreens.WordsListScreen;md5c6af9fbdd9f3b95720e819224c27ae11.WordsListScreen
+logopeda.screens.wordsscreens.WordsListScreen;md5c6af9fbdd9f3b95720e819224c27ae11.WordsListScreen
+Logopeda.Screens.PoemsScreens.PoemsListScreen, Logopeda;md587c51156b930f72f4cb077a445b634f5.PoemsListScreen
+Logopeda.Screens.PoemsScreens.PoemsListScreen, Logopeda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md587c51156b930f72f4cb077a445b634f5.PoemsListScreen
+Logopeda.Screens.PoemsScreens.PoemsListScreen;md587c51156b930f72f4cb077a445b634f5.PoemsListScreen
+logopeda.screens.poemsscreens.PoemsListScreen;md587c51156b930f72f4cb077a445b634f5.PoemsListScreen
+Logopeda.Screens.MainScreens.AddScreen, Logopeda;md5ecb8e281a481b714af792226d5ab4936.AddScreen
+Logopeda.Screens.MainScreens.AddScreen, Logopeda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecb8e281a481b714af792226d5ab4936.AddScreen
+Logopeda.Screens.MainScreens.AddScreen;md5ecb8e281a481b714af792226d5ab4936.AddScreen
+logopeda.screens.mainscreens.AddScreen;md5ecb8e281a481b714af792226d5ab4936.AddScreen
+Logopeda.Screens.MainScreens.PoemsScreen, Logopeda;md5ecb8e281a481b714af792226d5ab4936.PoemsScreen
+Logopeda.Screens.MainScreens.PoemsScreen, Logopeda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecb8e281a481b714af792226d5ab4936.PoemsScreen
+Logopeda.Screens.MainScreens.PoemsScreen;md5ecb8e281a481b714af792226d5ab4936.PoemsScreen
+logopeda.screens.mainscreens.PoemsScreen;md5ecb8e281a481b714af792226d5ab4936.PoemsScreen
+Logopeda.Screens.MainScreens.WordsScreen, Logopeda;md5ecb8e281a481b714af792226d5ab4936.WordsScreen
+Logopeda.Screens.MainScreens.WordsScreen, Logopeda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecb8e281a481b714af792226d5ab4936.WordsScreen
+Logopeda.Screens.MainScreens.WordsScreen;md5ecb8e281a481b714af792226d5ab4936.WordsScreen
+logopeda.screens.mainscreens.WordsScreen;md5ecb8e281a481b714af792226d5ab4936.WordsScreen
+Logopeda.Helpers.AlternateRowAdapter, Logopeda;md511330322547842377a1647fbc0feb63a.AlternateRowAdapter
+Logopeda.Helpers.AlternateRowAdapter, Logopeda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511330322547842377a1647fbc0feb63a.AlternateRowAdapter
+Logopeda.Helpers.AlternateRowAdapter;md511330322547842377a1647fbc0feb63a.AlternateRowAdapter
+logopeda.helpers.AlternateRowAdapter;md511330322547842377a1647fbc0feb63a.AlternateRowAdapter

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Logopeda.Logopeda" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="19" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Logopeda" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="@string/ApplicationName" android:name="md5aec9ab9a3feb243c7793e658edd2ef75.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="@string/WordsList" android:name="md5c6af9fbdd9f3b95720e819224c27ae11.WordsListScreen" />
+    <activity android:name="md587c51156b930f72f4cb077a445b634f5.PoemsListScreen" />
+    <activity android:label="@string/Add" android:name="md5ecb8e281a481b714af792226d5ab4936.AddScreen" />
+    <activity android:label="@string/PoemsList" android:name="md5ecb8e281a481b714af792226d5ab4936.PoemsScreen" />
+    <activity android:label="@string/WordsTypes" android:name="md5ecb8e281a481b714af792226d5ab4936.WordsScreen" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Logopeda.Logopeda.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Logopeda.Logopeda" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

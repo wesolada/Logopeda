@@ -1,0 +1,15 @@
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\Logopeda.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\Mono.Android.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\Mono.Data.Sqlite.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\mscorlib.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.Core.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.Data.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.Xml.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.Xml.Linq.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.Runtime.Serialization.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.ServiceModel.Internals.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.Transactions.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\System.Numerics.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\Mono.Data.Tds.dll
+C:\Projekty\Logopeda\Logopeda\obj\Release\assemblies\Mono.Security.dll

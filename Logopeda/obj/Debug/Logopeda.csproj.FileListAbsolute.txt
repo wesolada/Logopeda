@@ -1,0 +1,60 @@
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\Logopeda.csprojResolveAssemblyReference.cache
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\Logopeda.dll
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\Logopeda.pdb
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\bin\Debug\Logopeda.dll
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\bin\Debug\Logopeda.pdb
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\bin\Debug\Logopeda.Logopeda.apk
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\bin\Debug\Logopeda.Logopeda-Signed.apk
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\android\bin\Logopeda.Logopeda.apk
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\layout\wordsscreen.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\layout\poemsscreen.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\layout\exercisesscreen.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\layout\addscreen.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\layout\main.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\values\strings.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\drawable\icon.png
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\R.cs.flag
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\uploadflags.txt
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\layout\sentencesscreen.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\res\layout\complexwordsscreen.xml
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\obj\Debug\Logopeda.dll.mdb
+D:\Praca_Adam\Praca Tieto\Logopeda\Logopeda\bin\Debug\Logopeda.dll.mdb
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\bin\Debug\Logopeda.dll
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\bin\Debug\Logopeda.pdb
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\bin\Debug\Logopeda.Logopeda.apk
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\bin\Debug\Logopeda.Logopeda-Signed.apk
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\Logopeda.dll
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\Logopeda.pdb
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\android\bin\Logopeda.Logopeda.apk
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\layout\wordsscreen.xml
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\layout\poemsscreen.xml
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\layout\addscreen.xml
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\layout\wordslistscreen.xml
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\layout\poemslistscreen.xml
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\layout\main.xml
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\values\strings.xml
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\res\drawable\icon.png
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\R.cs.flag
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\uploadflags.txt
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\obj\Debug\Logopeda.dll.mdb
+C:\Users\wesolada\Documents\Visual Studio 2015\Projects\Logopeda\Logopeda\bin\Debug\Logopeda.dll.mdb
+C:\Projekty\Logopeda\Logopeda\bin\Debug\Logopeda.dll
+C:\Projekty\Logopeda\Logopeda\bin\Debug\Logopeda.pdb
+C:\Projekty\Logopeda\Logopeda\bin\Debug\Logopeda.Logopeda.apk
+C:\Projekty\Logopeda\Logopeda\bin\Debug\Logopeda.Logopeda-Signed.apk
+C:\Projekty\Logopeda\Logopeda\obj\Debug\Logopeda.csprojResolveAssemblyReference.cache
+C:\Projekty\Logopeda\Logopeda\obj\Debug\Logopeda.dll
+C:\Projekty\Logopeda\Logopeda\obj\Debug\Logopeda.pdb
+C:\Projekty\Logopeda\Logopeda\obj\Debug\android\bin\Logopeda.Logopeda.apk
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\layout\wordsscreen.xml
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\layout\poemsscreen.xml
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\layout\addscreen.xml
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\layout\wordslistscreen.xml
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\layout\poemslistscreen.xml
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\layout\main.xml
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\values\strings.xml
+C:\Projekty\Logopeda\Logopeda\obj\Debug\res\drawable\icon.png
+C:\Projekty\Logopeda\Logopeda\obj\Debug\R.cs.flag
+C:\Projekty\Logopeda\Logopeda\obj\Debug\uploadflags.txt
+C:\Projekty\Logopeda\Logopeda\obj\Debug\Logopeda.dll.mdb
+C:\Projekty\Logopeda\Logopeda\bin\Debug\Logopeda.dll.mdb
