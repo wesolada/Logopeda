@@ -93,7 +93,9 @@
     <Compile Include="Screens\WordsScreens\WordsListScreen.cs" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\MyDataBase.db" />
+    <AndroidAsset Include="Assets\MyDataBase.db">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidAsset>
     <None Include="GettingStarted.Xamarin" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />

@@ -21,7 +21,6 @@ C:\Projekty\Logopeda\Logopeda\bin\Release\Logopeda.dll
 C:\Projekty\Logopeda\Logopeda\bin\Release\Logopeda.pdb
 C:\Projekty\Logopeda\Logopeda\bin\Release\Logopeda.Logopeda.apk
 C:\Projekty\Logopeda\Logopeda\bin\Release\Logopeda.Logopeda-Signed.apk
-C:\Projekty\Logopeda\Logopeda\obj\Release\Logopeda.csprojResolveAssemblyReference.cache
 C:\Projekty\Logopeda\Logopeda\obj\Release\Logopeda.dll
 C:\Projekty\Logopeda\Logopeda\obj\Release\Logopeda.pdb
 C:\Projekty\Logopeda\Logopeda\obj\Release\android\bin\Logopeda.Logopeda.apk
