@@ -76,8 +76,8 @@ namespace Logopeda
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f06001a
-			public const int ALL = 2131099674;
+			// aapt resource value: 0x7f06001b
+			public const int ALL = 2131099675;
 			
 			// aapt resource value: 0x7f06000f
 			public const int Add = 2131099663;
@@ -99,6 +99,9 @@ namespace Logopeda
 			
 			// aapt resource value: 0x7f060010
 			public const int PoemsList = 2131099664;
+			
+			// aapt resource value: 0x7f06001a
+			public const int R = 2131099674;
 			
 			// aapt resource value: 0x7f060014
 			public const int RZ = 2131099668;

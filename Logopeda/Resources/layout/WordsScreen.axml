@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              android:orientation="vertical"
-              android:layout_width="match_parent"
-              android:layout_height="match_parent">
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
     <Button
         android:text="SZ"
         android:layout_width="match_parent"
@@ -38,6 +38,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/S" />
+    <Button
+        android:text="R"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/R" />
     <Button
         android:text="@string/All"
         android:layout_width="match_parent"

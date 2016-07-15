@@ -24,6 +24,7 @@ namespace Logopeda.Screens.MainScreens
             Button d¿Button = FindViewById<Button>(Resource.Id.D¯);
             Button dzButton = FindViewById<Button>(Resource.Id.DZ);
             Button sButton = FindViewById<Button>(Resource.Id.S);
+            Button rButton = FindViewById<Button>(Resource.Id.R);
             Button allButton = FindViewById<Button>(Resource.Id.ALL);
 
             szButton.Click += SzButton_Click;
@@ -33,6 +34,7 @@ namespace Logopeda.Screens.MainScreens
             d¿Button.Click += D¿Button_Click;
             dzButton.Click += DzButton_Click;
             sButton.Click += SButton_Click;
+            rButton.Click += RButton_Click;
             allButton.Click += AllButton_Click;
         }
 
@@ -75,6 +77,11 @@ namespace Logopeda.Screens.MainScreens
         private void SButton_Click(object sender, EventArgs e)
         {
             Run("S");
+        }
+
+        private void RButton_Click(object sender, EventArgs e)
+        {
+            Run("R");
         }
 
         private void AllButton_Click(object sender, EventArgs e)

@@ -2,7 +2,7 @@ namespace Logopeda.Screens.WordsScreens
 {
     using Android.App;
     using Android.OS;
-    using Logopeda.ORM;
+    using ORM;
     using Android.Widget;
     using System.Linq;
     using Helpers;
@@ -31,7 +31,7 @@ namespace Logopeda.Screens.WordsScreens
 
         private string[] CallDB(string parameter)
         {
-            switch(parameter)
+            switch (parameter)
             {
                 case "ALL":
                     return GetAllWords();
@@ -42,6 +42,8 @@ namespace Logopeda.Screens.WordsScreens
                 case "SZCZ":
                 case "D¯":
                 case "DZ":
+                case "S":
+                case "R":
                     return GetGroup(parameter);
 
                 case "Sentences":

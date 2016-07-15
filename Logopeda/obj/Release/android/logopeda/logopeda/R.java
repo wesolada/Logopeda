@@ -17,7 +17,7 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int ALL=0x7f06001a;
+        public static final int ALL=0x7f06001b;
         public static final int Add=0x7f06000f;
         public static final int CZ=0x7f060015;
         public static final int DZ=0x7f060018;
@@ -25,6 +25,7 @@ public final class R {
         public static final int MainLayout=0x7f060011;
         public static final int Poems=0x7f06000d;
         public static final int PoemsList=0x7f060010;
+        public static final int R=0x7f06001a;
         public static final int RZ=0x7f060014;
         public static final int S=0x7f060019;
         public static final int SZ=0x7f060013;
